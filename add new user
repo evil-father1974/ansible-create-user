@@ -1,5 +1,5 @@
 ansible.builtin.user:
-    name: johnd
-    comment: John Doe
+    name: sotan
+    comment: Sotan
     uid: 1040
     group: admin
