@@ -1,0 +1,5 @@
+  ansible.builtin.user:
+    name: sotan
+    comment: Sotan From Hell
+    uid: 1040
+    group: admin
