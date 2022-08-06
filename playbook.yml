@@ -1,5 +1,9 @@
-  ansible.builtin.user:
-    name: sotan
-    comment: Sotan From Hell
-    uid: 1040
-    group: admin
+---
+- name: Demo
+  hosts: localhost
+  tasks:
+  - name: Add user 'sotan'
+    ansible.builtin.user:
+      name: sotan
+      comment: Sotan From Hell
+      group: sudo
