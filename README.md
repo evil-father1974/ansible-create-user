@@ -9,7 +9,7 @@ run ansible: ansible-playbook playbook.yml
 
 ``` команда запуска ансибла ```
 
-root@evil-VirtualBox:/home/evil# ansible-playbook playbook.yml
+/home/evil# ansible-playbook playbook.yml
 
 
 ``` вывод ансибла ```
