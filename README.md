@@ -7,7 +7,7 @@ run ansible: ansible-playbook playbook.yml
 ``` команда запуска ансибла ```
 root@evil-VirtualBox:/home/evil# ansible-playbook playbook.yml
 
-''' вывод ансибла '''
+``` вывод ансибла ```
 [WARNING]: provided hosts list is empty, only localhost is available. Note that the implicit localhost does not match 'all'
 
 PLAY [Demo] ************************************************************************************************************************************
