@@ -8,26 +8,13 @@ root@evil-VirtualBox:/home/evil# ansible-playbook playbook.yml
 
 [WARNING]: provided hosts list is empty, only localhost is available. Note that the implicit localhost does not match 'all'
 
-
-
 PLAY [Demo] ************************************************************************************************************************************
 
-
-
 TASK [Gathering Facts] *************************************************************************************************************************
-
 ok: [localhost]
-
-
 
 TASK [Add user 'sotan'] ************************************************************************************************************************
-
 ok: [localhost]
 
-
-
 PLAY RECAP *************************************************************************************************************************************
-
-localhost                  : ok=2    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
-
-
+localhost                  : ok=2    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0  
