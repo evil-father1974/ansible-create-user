@@ -2,14 +2,10 @@
 👋 Hi, I’m @evil-father1974
 playbook.yml - Add the user 'sotan' with a specific uid and a primary group of 'admin'
 
-``` ввод хуя ```
 
-run ansible: ansible-playbook playbook.yml
+### запуска ансибла 
 
-
-``` команда запуска ансибла ```
-
-/home/evil# ansible-playbook playbook.yml
+``` /home/evil# ansible-playbook playbook.yml```
 
 
 ### вывод ансибла 
